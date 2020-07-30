@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/SirShopping/static/css/main.206d0111.chunk.css",
-    "main.js": "/SirShopping/static/js/main.7ab5758b.chunk.js",
-    "main.js.map": "/SirShopping/static/js/main.7ab5758b.chunk.js.map",
-    "runtime-main.js": "/SirShopping/static/js/runtime-main.26239158.js",
-    "runtime-main.js.map": "/SirShopping/static/js/runtime-main.26239158.js.map",
-    "static/css/2.d34346ea.chunk.css": "/SirShopping/static/css/2.d34346ea.chunk.css",
-    "static/js/2.dac908a6.chunk.js": "/SirShopping/static/js/2.dac908a6.chunk.js",
-    "static/js/2.dac908a6.chunk.js.map": "/SirShopping/static/js/2.dac908a6.chunk.js.map",
-    "index.html": "/SirShopping/index.html",
-    "precache-manifest.908d29af650e2d1bd63bcd3e57c3ab71.js": "/SirShopping/precache-manifest.908d29af650e2d1bd63bcd3e57c3ab71.js",
-    "service-worker.js": "/SirShopping/service-worker.js",
-    "static/css/2.d34346ea.chunk.css.map": "/SirShopping/static/css/2.d34346ea.chunk.css.map",
-    "static/css/main.206d0111.chunk.css.map": "/SirShopping/static/css/main.206d0111.chunk.css.map",
-    "static/js/2.dac908a6.chunk.js.LICENSE.txt": "/SirShopping/static/js/2.dac908a6.chunk.js.LICENSE.txt"
+    "main.css": "/SirShop/static/css/main.206d0111.chunk.css",
+    "main.js": "/SirShop/static/js/main.6e5e9b37.chunk.js",
+    "main.js.map": "/SirShop/static/js/main.6e5e9b37.chunk.js.map",
+    "runtime-main.js": "/SirShop/static/js/runtime-main.af1888ed.js",
+    "runtime-main.js.map": "/SirShop/static/js/runtime-main.af1888ed.js.map",
+    "static/css/2.d34346ea.chunk.css": "/SirShop/static/css/2.d34346ea.chunk.css",
+    "static/js/2.105c4525.chunk.js": "/SirShop/static/js/2.105c4525.chunk.js",
+    "static/js/2.105c4525.chunk.js.map": "/SirShop/static/js/2.105c4525.chunk.js.map",
+    "index.html": "/SirShop/index.html",
+    "precache-manifest.9317b4369ff81f3ae642dbf2c887a255.js": "/SirShop/precache-manifest.9317b4369ff81f3ae642dbf2c887a255.js",
+    "service-worker.js": "/SirShop/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/SirShop/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.206d0111.chunk.css.map": "/SirShop/static/css/main.206d0111.chunk.css.map",
+    "static/js/2.105c4525.chunk.js.LICENSE.txt": "/SirShop/static/js/2.105c4525.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26239158.js",
+    "static/js/runtime-main.af1888ed.js",
     "static/css/2.d34346ea.chunk.css",
-    "static/js/2.dac908a6.chunk.js",
+    "static/js/2.105c4525.chunk.js",
     "static/css/main.206d0111.chunk.css",
-    "static/js/main.7ab5758b.chunk.js"
+    "static/js/main.6e5e9b37.chunk.js"
   ]
 }
